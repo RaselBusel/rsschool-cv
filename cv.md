@@ -44,5 +44,5 @@ I always look for new ways to stretch and challenge myself.
 
 ## **Languages**
 
-**English:** A2
+**English:** A2<br>
 **Russian:** Native
